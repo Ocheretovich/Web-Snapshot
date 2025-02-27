@@ -6,7 +6,7 @@
 
 # Asqatasun Web-Snapshot
 
-Java API to create snaphots or thumbnails of webpage
+Java API to create snapshots or thumbnails of webpage
 
 
 ## Documentation
@@ -17,7 +17,7 @@ Go to the [documentation](documentation/) !
 ## Support and discussions
 
 * [Asqatasun discussion space](http://forum.asqatasun.org/) 
-* [Twitter @Asqatasun](https://twitter.com/Asqatasun)
+* [X (formerly Twitter) @Asqatasun](https://x.com/Asqatasun)
 * email to `asqatasun AT asqatasun dot org` (only English, French and klingon is spoken :) ) 
 
 
